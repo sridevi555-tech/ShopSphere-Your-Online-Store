@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopSphere – Your Online Store
 
 🛒 A fully interactive, responsive e-commerce website built with **HTML, CSS, and JavaScript**. ShopSphere allows users to browse products, add items to cart, manage wishlist, place orders, and even includes an admin dashboard for product management — all with persistent data using `localStorage`.
@@ -137,3 +138,7 @@ shopsphere/
 This project is open source and available for learning, modification, and personal use. No backend or API required.
 
 🚀 Great work on building a full e-commerce site!
+=======
+# ShopSphere-Your-Online-Store
+hopSphere is a fully interactive, front-end e-commerce web application built with HTML, CSS, and vanilla JavaScript. Designed to mimic real-world online shopping platforms like Amazon, it offers users a seamless experience from browsing products to placing orders.
+>>>>>>> 04d87349d282c2138ab6f842180e367aced46092
